@@ -1,0 +1,7 @@
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Debug\Lab3IOTPR.exe.config
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Debug\Lab3IOTPR.exe
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Debug\Lab3IOTPR.pdb
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Debug\Lab3IOTPR.csprojAssemblyReference.cache
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Debug\Lab3IOTPR.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Debug\Lab3IOTPR.exe
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Debug\Lab3IOTPR.pdb

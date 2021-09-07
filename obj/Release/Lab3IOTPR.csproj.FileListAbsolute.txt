@@ -1,0 +1,13 @@
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.exe.config
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.exe
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.pdb
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.exe
+C:\Users\MeFFoS\source\repos\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.pdb
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.exe.config
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.exe
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\bin\Release\Lab3IOTPR.pdb
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.csproj.AssemblyReference.cache
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.exe
+C:\Users\MeFFoS\Downloads\csharp\Lab3IOTPR\Lab3IOTPR\obj\Release\Lab3IOTPR.pdb
